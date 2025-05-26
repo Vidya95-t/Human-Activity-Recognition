@@ -1,5 +1,5 @@
 ## Human Activity Recognition using CNN in Keras
-This repository contains the code for a small project. The aim of this project is to create a simple Convolutional Neural Network (CNN) based Human Activity Recognition (HAR) system. This system uses the sensor data from a 3D accelerometer for `x`, `y` and `z` axis and recognize the activity of the user e.g. `Walking`, `Jogging`, going `Upstairs` or `Downstairs`, etc.
+The aim of this project is to create a simple Convolutional Neural Network (CNN) based Human Activity Recognition (HAR) system. This system uses the sensor data from a 3D accelerometer for `x`, `y` and `z` axis and recognize the activity of the user e.g. `Walking`, `Jogging`, going `Upstairs` or `Downstairs`, etc.
 ### Files
 The repository contains following files.
 * `HAR.py`, Python script file, containing the Keras implementation of the CNN based Human Activity Recognition (HAR) model,
